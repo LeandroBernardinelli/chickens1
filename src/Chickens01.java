@@ -13,7 +13,7 @@ public class Chickens01 {
     int z = (x*y);
     
     int s = z;
-    int t = y++;
+    int t = z + x;
     int q = t / 2;
     
     int totalEggs = (s + t + q);
